@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
+title: portfolio
 permalink: /portfolio/
 ---
 
-Welcome to my portfolio site. Explore my work below! um um um
+hi, my name is ynah! feel free to explore my work and who i am ~

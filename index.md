@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: ynah niyel's portfolio
 ---
 
-Welcome to my portfolio! Um UM UUM
+hi, my name is ynah! feel free to explore my work and who i am ~

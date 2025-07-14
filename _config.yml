@@ -1,8 +1,6 @@
-title: Ynah Niyel Novilla
+title: ynah niyel novilla
 email: ynahniyel.novilla@gmail.com
-description: >- # "multi-line"
-  Hi, my name is Ynah! I'm a recent graduate from the University of California, 
-  Riverside with a B.S. in Data Science.
+description: >- # "multi-line" but keeping empty for now
 url: "https://ynahniyelnovilla.github.io"
 
 theme: minima
@@ -15,7 +13,7 @@ header_pages:
   - about.md
   - portfolio.md
   - blog.md
-  
+
 minima:
   social_links:
     github: ynahniyelnovilla
