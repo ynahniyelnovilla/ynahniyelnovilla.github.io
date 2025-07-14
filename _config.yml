@@ -1,3 +1,16 @@
 title: My Portfolio
-description: Welcome to my portfolio!
+author: Ynah Novilla
+description: >- # "multi-line"
+  Welcome to my data science portfolio.
+baseurl: "ynahniyelnovilla"
+url: "https://ynahniyelnovilla.github.io"
+
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+  - portfolio.md
