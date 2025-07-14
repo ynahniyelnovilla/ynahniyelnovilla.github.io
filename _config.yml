@@ -1,8 +1,10 @@
 title: My Portfolio
 author: Ynah Novilla
+email: ynahniyel.novilla@gmail.com
 description: >- # "multi-line"
   Welcome to my data science portfolio.
-baseurl: "ynahniyelnovilla"
+  I use this site to showcase projects and skills.
+baseurl: ""
 url: "https://ynahniyelnovilla.github.io"
 
 theme: minima
@@ -14,3 +16,8 @@ plugins:
 header_pages:
   - about.md
   - portfolio.md
+
+minima:
+  social_links:
+  github: ynahniyelnovilla
+  linkedin: ynahnovilla
