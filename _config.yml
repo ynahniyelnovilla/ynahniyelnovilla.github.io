@@ -19,3 +19,8 @@ minima:
     github: ynahniyelnovilla
     linkedin: ynahnovilla
     email: ynahniyel.novilla@gmail.com
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/

@@ -4,4 +4,14 @@ title: portfolio
 permalink: /portfolio/
 ---
 
-hi, my name is ynah! feel free to explore my work and who i am ~
+here are some of my projects :)
+
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ project.url | relative_url }}">
+        {{ project.title }}
+      </a> — {{ project.description }}
+    </li>
+  {% endfor %}
+</ul>
