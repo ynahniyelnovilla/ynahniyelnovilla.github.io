@@ -1,0 +1,56 @@
+.portfolio-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 1rem 0;
+}
+
+.project-card {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  transition: box-shadow 0.2s ease;
+  background-color: #fafafa;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+.project-thumb {
+  width: 120px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.project-info {
+  flex: 1;
+}
+
+.project-info h3 {
+  margin: 0 0 0.3rem;
+}
+
+.project-info a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+.project-info a:hover {
+  text-decoration: underline;
+}
+
+.description {
+  margin: 0 0 0.5rem;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.tools {
+  font-size: 0.85rem;
+  color: #666;
+}

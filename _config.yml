@@ -23,3 +23,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+
+include:
+  - assets/css
